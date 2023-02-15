@@ -1,0 +1,62 @@
+.container{
+    border: 1px solid black;
+    height: 350px;
+    width: 400px;
+    margin: auto;
+    padding-left: 10px;;
+    padding-right: 10px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+
+.link{
+    color:rgba(66, 66, 255, 0.851);
+}
+
+signin{
+    font-size: 30px;
+}
+
+.lower{
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+}
+
+.continue{
+    background-color: rgb(245, 184, 53);
+    padding: 5px 150px;
+    border: 1px solid black;
+    height: 10%;
+}
+
+#create{
+    padding: 5px 120px;
+    border: 1px solid black;
+    height: 10%;
+}
+
+#password{
+    font-size: 12px;
+}
+
+.fpassword{
+    font-size: 14px;
+    color:rgba(66, 66, 255, 0.851);
+}
+
+.conditions{
+    font-size: 10px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+input{
+    width: 98%;
+    height: 100%;
+}
